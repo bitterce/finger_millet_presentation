@@ -11,7 +11,7 @@ Write something about finger millet
 
 ### Methods
 
-<img width="422" alt="EAGLE-RC_pipeline" src="https://user-images.githubusercontent.com/48200405/72508102-feaa7a80-383c-11ea-9978-637c903cfc98.jpg">
+<img width="800" alt="EAGLE-RC_pipeline" src="https://user-images.githubusercontent.com/48200405/72508102-feaa7a80-383c-11ea-9978-637c903cfc98.jpg">
 
 ---
 
