@@ -1,4 +1,4 @@
-# Finger Millet Genomic Analysis
+## Finger Millet Genomic Analysis
 Céline Bitter and Masaomi Hatekayama
 
 ---
@@ -11,11 +11,7 @@ Write something about finger millet
 
 ### Methods
 
-- Quality check
-- BWA mapping
-- BamStats 
-- EAGLE-RC
-- BamStats
+<img width="422" alt="EAGLE-RC_pipeline" src="https://user-images.githubusercontent.com/48200405/72508102-feaa7a80-383c-11ea-9978-637c903cfc98.jpg">
 
 ---
 
