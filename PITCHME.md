@@ -5,7 +5,16 @@ Céline Bitter and Masaomi Hatekayama
 
 ### Introduction
 
-Write something about finger millet
+![fingermillet](https://user-images.githubusercontent.com/48200405/72526126-991ab600-385d-11ea-897d-a620bfdf276b.jpg)
+
+---
+
+### Objective
+
+- Allopolyploidie poses many challenges in finding true variants, due to the high number of homeologs between the subgenomes
+- Finger millet is a tetrapolyploid crop species, with subgenome A and subgenome B
+- EAGLE-RC is able to map reads to the subgenomes seperately and evaluates the likelihood of the data under a given hypothesis
+
 
 ---
 
@@ -15,7 +24,7 @@ Write something about finger millet
 
 ---
 
-## Results
+### Results
 
 Show some results
 bla
