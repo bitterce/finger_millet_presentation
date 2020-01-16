@@ -11,11 +11,11 @@ Write something about finger millet
 
 ### Methods
 
-<img width="800" alt="EAGLE-RC_pipeline" src="https://user-images.githubusercontent.com/48200405/72508102-feaa7a80-383c-11ea-9978-637c903cfc98.jpg">
+<img width="820" alt="EAGLE-RC_pipeline" src="https://user-images.githubusercontent.com/48200405/72508625-eb4bdf00-383d-11ea-8f62-5677be147f9e.jpg">
 
 ---
 
 ## Results
 
 Show some results
-![BamStats_103_EAGLE-RC_on_A](https://user-images.githubusercontent.com/48200405/72507254-77103c00-383b-11ea-8d8f-8b7f471e2240.png)
+bla
