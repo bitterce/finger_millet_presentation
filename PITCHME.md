@@ -1,6 +1,5 @@
-# Test presentation
-
-Just figuring out how GitPitch works
+# Finger Millet Genomic Analysis
+Céline Bitter and Masaomi Hatekayama
 
 ---
 
@@ -12,7 +11,11 @@ Write something about finger millet
 
 ### Methods
 
-Talk about the pipeline
+- Quality check
+- BWA mapping
+- BamStats 
+- EAGLE-RC
+- BamStats
 
 ---
 
