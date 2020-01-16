@@ -5,7 +5,8 @@ Céline Bitter and Masaomi Hatekayama
 
 ### Introduction
 
-![fingermillet](https://user-images.githubusercontent.com/48200405/72526126-991ab600-385d-11ea-897d-a620bfdf276b.jpg)
+
+<img width="650" alt="fingermillet" src="https://user-images.githubusercontent.com/48200405/72526126-991ab600-385d-11ea-897d-a620bfdf276b.jpg">
 
 ---
 
