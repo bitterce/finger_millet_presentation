@@ -31,19 +31,19 @@ Céline Bitter and Masaomi Hatekayama
 
 ### Methods - BWA
 <p float="left">
- <img width="280" alt="BWA" src="https://user-images.githubusercontent.com/48200405/72598182-3847b800-3907-11ea-9975-0eb7484486a2.jpg">
- <img width="280" alt="BWA_tree" src="https://user-images.githubusercontent.com/48200405/72598188-3a117b80-3907-11ea-8905-2f9042ff0682.jpg">
-<\p>
+ <img width="350" alt="BWA" src="https://user-images.githubusercontent.com/48200405/72598182-3847b800-3907-11ea-9975-0eb7484486a2.jpg">
+ <img width="350" alt="BWA_tree" src="https://user-images.githubusercontent.com/48200405/72598188-3a117b80-3907-11ea-8905-2f9042ff0682.jpg">
+</p>
 
 ---
 
 ### Methods - EAGLE-RC
-<img width="300" alt="EAGLE-RC_workflow" src="https://user-images.githubusercontent.com/48200405/72600685-05ec8980-390c-11ea-93a2-ff26c650b296.jpg">
+<p float="left>
+ <img width="350" alt="EAGLE-RC_workflow" src="https://user-images.githubusercontent.com/48200405/72600685-05ec8980-390c-11ea-93a2-ff26c650b296.jpg">
+ <img width="350" alt="EAGLE-RC_merged" src="https://user-images.githubusercontent.com/48200405/72601596-9a0b2080-390d-11ea-9b8c-9b057dd24b4f.jpg">
+</p>
 
-<img width="250" alt="EAGLE-RC_balance" src="https://user-images.githubusercontent.com/48200405/72600672-02590280-390c-11ea-9b7a-210ac24ada5a.jpg">
-
-<img width="250" alt="EAGLE-RC_calc" src="https://user-images.githubusercontent.com/48200405/72600677-038a2f80-390c-11ea-8093-d2609df1f5f2.jpg">
-
+---
 
 ### Challenges
 
