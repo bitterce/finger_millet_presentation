@@ -38,18 +38,27 @@ Céline Bitter and Masaomi Hatekayama
 ---
 
 ### Methods - EAGLE-RC
-<p float="left>
- <img width="350" alt="EAGLE-RC_workflow" src="https://user-images.githubusercontent.com/48200405/72600685-05ec8980-390c-11ea-93a2-ff26c650b296.jpg">
- <img width="350" alt="EAGLE-RC_merged" src="https://user-images.githubusercontent.com/48200405/72601596-9a0b2080-390d-11ea-9b8c-9b057dd24b4f.jpg">
+<p float="left">
+ <img width="400" alt="EAGLE-RC_workflow" src="https://user-images.githubusercontent.com/48200405/72600685-05ec8980-390c-11ea-93a2-ff26c650b296.jpg">
+ <img width="320" alt="EAGLE-RC_merged" src="https://user-images.githubusercontent.com/48200405/72601596-9a0b2080-390d-11ea-9b8c-9b057dd24b4f.jpg">
 </p>
 
 ---
 
-### Challenges
+### Challenges vs what I have learned
+- Bottelneck in pipeline (BWA, EAGLE-RC, GATK)
+- Reduced disc space on server
+- Planning and organisation
+- Github
+- Application of a functional genomics workflow
 
 ---
 
 ### Outlook
+- Finish the pipeline (from EAGLE-RC to BEAGLE)
+- Start pipeline for remaining 3 groups 
+- At the beginning of pipeline, state what could go wrong and name workarounds 
+
 
 ---
 
