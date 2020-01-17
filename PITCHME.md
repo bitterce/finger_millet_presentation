@@ -45,6 +45,9 @@ Céline Bitter and Masaomi Hatekayama
 
 ---
 
+### Results
+- In total 4 barplots --> 2 before EAGLE-RC (for A and B) 2 after EAGLE-RC (for A and B)
+
 ### Challenges vs what I have learned
 - Bottelneck in pipeline (BWA, EAGLE-RC, GATK) :x:
 - Reduced disc space on server :x:
