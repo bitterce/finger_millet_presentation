@@ -46,8 +46,8 @@ Céline Bitter and Masaomi Hatekayama
 ---
 
 ### Challenges vs what I have learned
-- Bottelneck in pipeline (BWA, EAGLE-RC, GATK) x
-- Reduced disc space on server x
+- Bottelneck in pipeline (BWA, EAGLE-RC, GATK) :x:
+- Reduced disc space on server :x:
 - Planning and organisation :heavy_check_mark:
 - Github :heavy_check_mark: 
 - Application of a functional genomics workflow :heavy_check_mark:
