@@ -30,14 +30,14 @@ Céline Bitter and Masaomi Hatekayama
 ---
 
 ### Methods - BWA
-<img width="400" alt="BWA" src="https://user-images.githubusercontent.com/48200405/72598182-3847b800-3907-11ea-9975-0eb7484486a2.jpg">
+<img width="280" alt="BWA" src="https://user-images.githubusercontent.com/48200405/72598182-3847b800-3907-11ea-9975-0eb7484486a2.jpg">
 
-<img width="400" alt="BWA_tree" src="https://user-images.githubusercontent.com/48200405/72598188-3a117b80-3907-11ea-8905-2f9042ff0682.jpg">
+<img width="280" alt="BWA_tree" src="https://user-images.githubusercontent.com/48200405/72598188-3a117b80-3907-11ea-8905-2f9042ff0682.jpg">
 
 ---
 
 ### Methods - EAGLE-RC
-<img width="400" alt="EAGLE-RC_workflow" src="https://user-images.githubusercontent.com/48200405/72600685-05ec8980-390c-11ea-93a2-ff26c650b296.jpg">
+<img width="300" alt="EAGLE-RC_workflow" src="https://user-images.githubusercontent.com/48200405/72600685-05ec8980-390c-11ea-93a2-ff26c650b296.jpg">
 
 <img width="250" alt="EAGLE-RC_balance" src="https://user-images.githubusercontent.com/48200405/72600672-02590280-390c-11ea-9b7a-210ac24ada5a.jpg">
 
