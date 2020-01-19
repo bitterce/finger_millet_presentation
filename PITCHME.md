@@ -86,7 +86,7 @@ Céline Bitter
 
 @snap[north span-50 text-center]
 #### Discussion
-@snap
+@snapend
 
 ######## before EAGLE-RC
 <p float="left">
