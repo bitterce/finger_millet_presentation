@@ -11,11 +11,12 @@ Céline Bitter and Masaomi Hatekayama
 ---
 
 #### Objective
-
+@size[14pt]
+(
 - Allopolyploidie poses many challenges in finding true variants, due to the high number of homeologs between the subgenomes
 - Finger millet is a tetrapolyploid crop species, with subgenome A and subgenome B
 - EAGLE-RC is able to map reads to the subgenomes seperately and evaluates the likelihood of the data under a given hypothesis
-
+)
 ---
 
 #### Methods - planning the pipeline
@@ -39,13 +40,13 @@ Céline Bitter and Masaomi Hatekayama
 
 #### Results (before EAGLE-RC)
 <p float="left">
- <img width="200" alt="number_of_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72680170-e346a600-3aae-11ea-9af9-de11a0f7b349.png">
- <img width="200" alt="number_of_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72680174-e6419680-3aae-11ea-9e1f-bfb64b4fb616.png">
+ <img width="300" alt="number_of_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72680170-e346a600-3aae-11ea-9af9-de11a0f7b349.png">
+ <img width="300" alt="number_of_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72680174-e6419680-3aae-11ea-9e1f-bfb64b4fb616.png">
 </p>
 
 <p float="left">
- <img width="200" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72680177-ed68a480-3aae-11ea-9b46-59d37a521c97.png">
- <img width="200" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72680178-efcafe80-3aae-11ea-84f7-ddc613af865d.png">
+ <img width="300" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72680177-ed68a480-3aae-11ea-9b46-59d37a521c97.png">
+ <img width="300" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72680178-efcafe80-3aae-11ea-84f7-ddc613af865d.png">
 </p>
 ---
 
