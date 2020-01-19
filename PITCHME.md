@@ -1,5 +1,6 @@
 ## Finger Millet Genomic Analysis
-Céline Bitter (Supervior: Dr. Masaomi Hatekayama)
+Céline Bitter 
+(Supervior: Dr. Masaomi Hatekayama)
 
 ---
 
