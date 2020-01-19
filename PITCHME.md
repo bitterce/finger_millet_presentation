@@ -70,7 +70,7 @@ Céline Bitter
 @title[Results (Number of SNPs, GATKv4)]
 
 @snap[north span-50 text-center]
-#### Results (Number of SNPs, GATKv4)
+#### Results (Number of SNPs)
 @snapend
 
 @snap[west span-50]
