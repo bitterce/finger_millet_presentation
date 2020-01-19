@@ -84,9 +84,7 @@ Céline Bitter
 ---
 @title[Results (Number of SNPs, GATKv4)]
 
-@snap[north span-50 text-center]
 #### Discussion
-@snapend
 
 before EAGLE-RC
 <p float="left">
