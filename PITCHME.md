@@ -70,7 +70,7 @@ Céline Bitter and Masaomi Hatekayama
 #### Discussion
 <p float="left">
  <img width="290" alt="percentage_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685548-333f6000-3ae3-11ea-92f7-0d715924efc3.png">
- <img" width="290" alt="percentage_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685557-44886c80-3ae3-11ea-9310-ee4a477e2e50.png">
+ <img width="290" alt="percentage_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685557-44886c80-3ae3-11ea-9310-ee4a477e2e50.png">
 </p>
 
 <p float="left">
@@ -100,13 +100,15 @@ Céline Bitter and Masaomi Hatekayama
 @ulend
 
 ---
-#### Acknowledgement
+### Acknowledgement
 @ul[list-square-bullets list-spaced-bullets text-10](false)
 - Masaomi Hatekayama
 - Kentaro Shimizu
 - Chiara Barbieri
 - And to everyone somehow in this project!
 @ulend
+@snap[text-14]
 Thanks everyone for your attention! 
+@snapend
 
 
