@@ -67,13 +67,12 @@ Céline Bitter (Supervior: Dr. Masaomi Hatekayama)
 
 ---
 
-#### Results (Number of SNPs, GATKv4 HyplotypeCaller + JointGenotypes)
-
-@snap[west span-55]
+#### Results (Number of SNPs, GATKv4)
+@snap[west span-50]
 ![IMAGE](img/snps_A.png)
 @snapend
 
-@snap[east span-55]
+@snap[east span-50]
 ![IMAGE](img/snps_B.png)
 @snapend
 
