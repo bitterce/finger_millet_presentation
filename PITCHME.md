@@ -13,7 +13,7 @@ Céline Bitter
 ---
 
 @snap[north span-50 text-center]
-#### Objective
+### Objective
 @snapend
 
 @ul[list-square-bullets list-spaced-bullets text-08](false)
@@ -25,7 +25,7 @@ Céline Bitter
 ---
 
 @snap[north span-50 text-center]
-#### Methods - planning the pipeline
+### Methods - planning the pipeline
 @snapend
 
 <img width="820" alt="methods" src="https://user-images.githubusercontent.com/48200405/72679900-cd83b180-3aab-11ea-8f07-02323a82c236.jpg">
@@ -33,7 +33,7 @@ Céline Bitter
 ---
 
 @snap[north span-50 text-center]
-#### Methods - EAGLE-RC
+### Methods - EAGLE-RC
 @snapend
 
 <p float="left">
@@ -44,7 +44,7 @@ Céline Bitter
 ---
 
 @snap[north span-50 text-center]
-####  Methods - applying the pipeline
+###  Methods - applying the pipeline
 @snapend
 
 <img width="900" alt="fingermillet_pipeline" src="https://user-images.githubusercontent.com/48200405/72592710-10eaee00-38fb-11ea-99e3-96ba2d0c2905.jpg">
@@ -52,7 +52,7 @@ Céline Bitter
 ---
 
 @snap[north span-50 text-center]
-#### Results (before EAGLE-RC)
+### Results (before EAGLE-RC)
 @snapend
 
 <p float="left">
@@ -70,7 +70,7 @@ Céline Bitter
 ---
 
 @snap[north span-50 text-center]
-#### Results (after EAGLE-RC)
+### Results (after EAGLE-RC)
 @snapend
 
 <p float="left">
@@ -88,7 +88,7 @@ Céline Bitter
 @title[Results (Number of SNPs, GATKv4)]
 
 @snap[north span-50 text-center]
-#### Results (Number of SNPs)
+### Results (Number of SNPs)
 @snapend
 
 @snap[west span-50]
@@ -103,7 +103,7 @@ Céline Bitter
 @title[Results (Number of SNPs, GATKv4)]
 
 @snap[north span-50 text-center]
-#### Discussion
+### Discussion
 @snapend
 
 after EAGLE-RC
@@ -121,7 +121,7 @@ after EAGLE-RC
 ---
 
 @snap[north span-50 text-center]
-#### Challenges vs what I have learned
+### Challenges vs what I have learned
 @snapend
 
 @ul[list-square-bullets list-spaced-bullets text-08](false)
@@ -135,7 +135,7 @@ after EAGLE-RC
 ---
 
 @snap[north span-50 text-center]
-#### Outlook
+### Outlook
 @snapend
 
 @ul[list-square-bullets list-spaced-bullets text-08](false)
@@ -147,7 +147,7 @@ after EAGLE-RC
 
 ---
 @snap[north span-50 text-center]
-### Acknowledgement
+## Acknowledgement
 @snapend
 
 @ul[list-square-bullets list-spaced-bullets text-10](false)
