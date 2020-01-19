@@ -1,5 +1,5 @@
 ## Finger Millet Genomic Analysis
-Céline Bitter and Masaomi Hatekayama
+Céline Bitter (Supervior: Dr. Masaomi Hatekayama)
 
 ---
 
@@ -67,6 +67,18 @@ Céline Bitter and Masaomi Hatekayama
 
 ---
 
+#### Results (Number of SNPs, GATKv4 HyplotypeCaller + JointGenotypes)
+
+@snap[west span-55]
+![IMAGE](img/snps_A.png)
+@snapend
+
+@snap[east span-55]
+![IMAGE](img/snps_B.png)
+@snapend
+
+---
+
 #### Discussion
 ######## before EAGLE-RC
 <p float="left">
@@ -85,7 +97,7 @@ Céline Bitter and Masaomi Hatekayama
 #### Challenges vs what I have learned
 @ul[list-square-bullets list-spaced-bullets text-08](false)
 - Bottelneck in pipeline (BWA, EAGLE-RC, GATK)
-- Reducekd disc space on server
+- Limited disc space on server
 - Planning and organisation
 - Github / GitPitch 
 - Application of a functional genomics workflow
@@ -104,9 +116,9 @@ Céline Bitter and Masaomi Hatekayama
 ---
 ### Acknowledgement
 @ul[list-square-bullets list-spaced-bullets text-10](false)
-- Masaomi Hatekayama
-- Kentaro Shimizu
-- Chiara Barbieri
+- Prof. Kentaro Shimizu
+- Dr. Masaomi Hatekayama
+- Dr. Chiara Barbieri
 - And to everyone somehow involved in this project!
 @ulend
 @snap[text-14]
