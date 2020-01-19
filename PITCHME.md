@@ -13,7 +13,7 @@ Céline Bitter and Masaomi Hatekayama
 #### Objective
 @ul[list-square-bullets list-spaced-bullets text-08](false)
 - Allopolyploidie poses many challenges in finding true variants, due to the high number of homeologs between the subgenomes
-- Finger millet is a tetrapolyploid crop species, with subgenome A and subgenome
+- Finger millet is a tetrapolyploid crop species, with subgenome A and subgenome B
 - EAGLE-RC is able to map reads to the subgenomes seperately and evaluates the likelihood of the data under a given hypothesis
 @ulend
 
@@ -21,14 +21,14 @@ Céline Bitter and Masaomi Hatekayama
 
 #### Methods - planning the pipeline
 
-<img width="750" alt="methods" src="https://user-images.githubusercontent.com/48200405/72679900-cd83b180-3aab-11ea-8f07-02323a82c236.jpg">
+<img width="820" alt="methods" src="https://user-images.githubusercontent.com/48200405/72679900-cd83b180-3aab-11ea-8f07-02323a82c236.jpg">
 
 ---
 
 #### Methods - EAGLE-RC
 <p float="left">
- <img width="400" alt="EAGLE-RC_workflow" src="https://user-images.githubusercontent.com/48200405/72600685-05ec8980-390c-11ea-93a2-ff26c650b296.jpg">
- <img width="320" alt="EAGLE-RC_merged" src="https://user-images.githubusercontent.com/48200405/72601596-9a0b2080-390d-11ea-9b8c-9b057dd24b4f.jpg">
+ <img width="420" alt="EAGLE-RC_workflow" src="https://user-images.githubusercontent.com/48200405/72600685-05ec8980-390c-11ea-93a2-ff26c650b296.jpg">
+ <img width="340" alt="EAGLE-RC_merged" src="https://user-images.githubusercontent.com/48200405/72601596-9a0b2080-390d-11ea-9b8c-9b057dd24b4f.jpg">
 </p>
 
 ---
@@ -76,7 +76,7 @@ Céline Bitter and Masaomi Hatekayama
 <p float="left">
  <img width="290" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_A" src="https://user-images.githubusercontent.com/48200405/72685695-574f7100-3ae4-11ea-9c22-0af5dd2c747b.png">
  <img width="290" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_B" src="https://user-images.githubusercontent.com/48200405/72685703-6cc49b00-3ae4-11ea-91b1-9f495baf3136.png">
-<\p>
+</p>
 
 ---
 
@@ -101,6 +101,12 @@ Céline Bitter and Masaomi Hatekayama
 
 ---
 #### Acknowledgement
-
+@ul[list-square-bullets list-spaced-bullets text-10](false)
+- Masaomi Hatekayama
+- Kentaro Shimizu
+- Chiara Barbieri
+- And to everyone somehow in this project!
+@ulend
+Thanks everyone for your attention! 
 
 
