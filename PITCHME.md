@@ -67,8 +67,8 @@ Céline Bitter
 </p>
 
 ---
+@title[Results (Number of SNPs, GATKv4)]
 
-#### Results (Number of SNPs, GATKv4)
 @snap[west span-50]
 ![IMAGE](img/snps_A.png)
 @snapend
