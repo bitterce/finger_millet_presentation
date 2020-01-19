@@ -39,7 +39,7 @@ Céline Bitter and Masaomi Hatekayama
 ---
 
 #### Results (before EAGLE-RC)
-<p float="center">
+<p float="left">
  <img width="290" alt="number_of_reads" src="https://user-images.githubusercontent.com/48200405/72685087-777c3180-3ade-11ea-9bb3-5a2e3e2a5981.png">
 </p>
 
@@ -56,7 +56,7 @@ Céline Bitter and Masaomi Hatekayama
 ---
 
 #### Results (after EAGLE-RC)
-<p float="center">
+<p float="left">
  <img width="290" alt="number_of_reads" src="https://user-images.githubusercontent.com/48200405/72685087-777c3180-3ade-11ea-9bb3-5a2e3e2a5981.png">
 </p>
 
