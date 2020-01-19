@@ -20,20 +20,7 @@ Céline Bitter and Masaomi Hatekayama
 
 ### Methods - planning the pipeline
 
-<img width="820" alt="EAGLE-RC_pipeline" src="https://user-images.githubusercontent.com/48200405/72508625-eb4bdf00-383d-11ea-8f62-5677be147f9e.jpg">
-
----
-
-###  Methods - applying the pipeline
-<img width="900" alt="fingermillet_pipeline" src="https://user-images.githubusercontent.com/48200405/72592710-10eaee00-38fb-11ea-99e3-96ba2d0c2905.jpg">
-
----
-
-### Methods - BWA
-<p float="left">
- <img width="350" alt="BWA" src="https://user-images.githubusercontent.com/48200405/72598182-3847b800-3907-11ea-9975-0eb7484486a2.jpg">
- <img width="350" alt="BWA_tree" src="https://user-images.githubusercontent.com/48200405/72598188-3a117b80-3907-11ea-8905-2f9042ff0682.jpg">
-</p>
+<img width="650" alt="methods" src="https://user-images.githubusercontent.com/48200405/72679824-dfb12000-3aaa-11ea-933c-7bbd81ef8da6.jpg">
 
 ---
 
@@ -45,8 +32,15 @@ Céline Bitter and Masaomi Hatekayama
 
 ---
 
+###  Methods - applying the pipeline
+<img width="900" alt="fingermillet_pipeline" src="https://user-images.githubusercontent.com/48200405/72592710-10eaee00-38fb-11ea-99e3-96ba2d0c2905.jpg">
+
+---
+
 ### Results
 - In total 4 barplots --> 2 before EAGLE-RC (for A and B) 2 after EAGLE-RC (for A and B)
+
+---
 
 ### Challenges vs what I have learned
 - Bottelneck in pipeline (BWA, EAGLE-RC, GATK) :x:
