@@ -13,7 +13,9 @@ Céline Bitter and Masaomi Hatekayama
 #### Objective
 @snap[text-07]
 - Allopolyploidie poses many challenges in finding true variants, due to the high number of homeologs between the subgenomes
+
 - Finger millet is a tetrapolyploid crop species, with subgenome A and subgenome B
+
 - EAGLE-RC is able to map reads to the subgenomes seperately and evaluates the likelihood of the data under a given hypothesis
 @snapend
 
@@ -52,19 +54,28 @@ Céline Bitter and Masaomi Hatekayama
 
 
 #### Challenges vs what I have learned
+@snap[text-07]
 - Bottelneck in pipeline (BWA, EAGLE-RC, GATK) :x:
-- Reduced disc space on server :x:
+
+- Reducekd disc space on server :x:
+
 - Planning and organisation :heavy_check_mark:
+
 - Github :heavy_check_mark: 
+
 - Application of a functional genomics workflow :heavy_check_mark:
+@snapend
 
 ---
 
 #### Outlook
-
+@snap[text-07]
 - Finish the pipeline (from EAGLE-RC to BEAGLE)
+
 - Start pipeline for remaining 3 groups 
+
 - At the beginning of pipeline, state what could go wrong and name workarounds 
+@snapend
 
 ---
 #### Acknowledgement
