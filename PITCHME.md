@@ -24,7 +24,7 @@ Céline Bitter
 
 ---
 
-@snap[north span-50 text-center]
+@snap[north text-center]
 ### Methods - planning the pipeline
 @snapend
 
@@ -32,7 +32,7 @@ Céline Bitter
 
 ---
 
-@snap[north span-50 text-center]
+@snap[north span-100 text-center]
 ### Methods - EAGLE-RC
 @snapend
 
@@ -43,7 +43,7 @@ Céline Bitter
 
 ---
 
-@snap[north span-50 text-center]
+@snap[north span-100 text-center]
 ###  Methods - applying the pipeline
 @snapend
 
@@ -51,7 +51,7 @@ Céline Bitter
 
 ---
 
-@snap[north span-50 text-center]
+@snap[north span-100 text-center]
 ### Results (before EAGLE-RC)
 @snapend
 
@@ -69,7 +69,7 @@ Céline Bitter
 
 ---
 
-@snap[north span-50 text-center]
+@snap[north span-100 text-center]
 ### Results (after EAGLE-RC)
 @snapend
 
@@ -87,7 +87,7 @@ Céline Bitter
 ---
 @title[Results (Number of SNPs, GATKv4)]
 
-@snap[north span-50 text-center]
+@snap[north span-100 text-center]
 ### Results (Number of SNPs)
 @snapend
 
@@ -120,7 +120,7 @@ after EAGLE-RC
 
 ---
 
-@snap[north span-50 text-center]
+@snap[north span-100 text-center]
 ### Challenges vs what I have learned
 @snapend
 
@@ -147,7 +147,7 @@ after EAGLE-RC
 
 ---
 @snap[north span-50 text-center]
-## Acknowledgement
+### Acknowledgement
 @snapend
 
 @ul[list-square-bullets list-spaced-bullets text-10](false)
