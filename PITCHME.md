@@ -68,7 +68,7 @@ Céline Bitter and Masaomi Hatekayama
 ---
 
 #### Discussion
-@snap[text-4]
+@snap[text-06]
 before EAGLE-RC
 @snapend
 <p float="left">
@@ -76,7 +76,7 @@ before EAGLE-RC
  <img width="280" alt="percentage_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685557-44886c80-3ae3-11ea-9310-ee4a477e2e50.png">
 </p>
 
-@snap[text-4]
+@snap[text-06]
 after EAGLE-RC
 @snapend
 <p float="left">
