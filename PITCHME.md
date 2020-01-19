@@ -40,14 +40,14 @@ Céline Bitter and Masaomi Hatekayama
 
 #### Results (before EAGLE-RC)
 <p float="left">
- <img align="right" width="290" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685159-0d17c100-3adf-11ea-9544-2fce2b94b91e.png">
- <img align="right" width="290" alt="number_of_reads" src="https://user-images.githubusercontent.com/48200405/72685087-777c3180-3ade-11ea-9bb3-5a2e3e2a5981.png">
- <img align="right" width="290" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685112-c1fdae00-3ade-11ea-81ad-90f47a70a56c.png">
+ <img align="right" width="290" alt="percentage_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685548-333f6000-3ae3-11ea-92f7-0d715924efc3.png">
+ <img align="right" width="290" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685551-39cdd780-3ae3-11ea-831a-4862b949204f.png">
+ <img align="right" width="290" alt="number_of_reads" src="https://user-images.githubusercontent.com/48200405/72685552-3cc8c800-3ae3-11ea-84a8-31998d39a1a4.png">
 </p>
 
 <p float="left">
- <img align="right" width="290" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685157-0ab56700-3adf-11ea-9823-d1e245aa3103.png">
- <img align="right" width="290" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685115-c5913500-3ade-11ea-89cb-47929b767e6b.png">
+ <img align="right" width="290" alt="percentage_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685557-44886c80-3ae3-11ea-9310-ee4a477e2e50.png">
+ <img align="right" width="290" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685560-4c481100-3ae3-11ea-91b5-cd80888056b4.png">
 </p>
 
 
@@ -55,12 +55,12 @@ Céline Bitter and Masaomi Hatekayama
 
 #### Results (after EAGLE-RC)
 <p float="left">
- <img width="290" alt="number_of_reads" src="https://user-images.githubusercontent.com/48200405/72685087-777c3180-3ade-11ea-9bb3-5a2e3e2a5981.png">
- <img width="290" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685112-c1fdae00-3ade-11ea-81ad-90f47a70a56c.png">
- <img width="290" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685159-0d17c100-3adf-11ea-9544-2fce2b94b91e.png">
+ <img align="right" width="290" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685159-0d17c100-3adf-11ea-9544-2fce2b94b91e.png">
+ <img align="right" width="290" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685112-c1fdae00-3ade-11ea-81ad-90f47a70a56c.png">
+ <img align="right" width="290" alt="number_of_reads" src="https://user-images.githubusercontent.com/48200405/72685087-777c3180-3ade-11ea-9bb3-5a2e3e2a5981.png">
 </p>
 
-<p float="right">
+<p float="left">
  <img align="right" width="290" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685157-0ab56700-3adf-11ea-9823-d1e245aa3103.png">
  <img align="right" width="290" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685115-c5913500-3ade-11ea-89cb-47929b767e6b.png">
 </p>
