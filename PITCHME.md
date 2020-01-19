@@ -66,9 +66,12 @@ Céline Bitter and Masaomi Hatekayama
 @ul[list-square-bullets list-spaced-bullets text-08](false)
 - Finish the pipeline (from EAGLE-RC to BEAGLE)
 - Start pipeline for remaining 3 groups 
-- At the beginning of pipeline, state what could go wrong and name workarounds 
+- At the beginning of pipeline, state what could go wrong and name workarounds
+- Compare sequencing data to linguistic data  
 @ulend
 
 ---
 #### Acknowledgement
+
+
 
