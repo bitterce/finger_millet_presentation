@@ -11,7 +11,7 @@ Céline Bitter and Masaomi Hatekayama
 ---
 
 #### Objective
-@size[14pt]
+@size[5em]
 (
 - Allopolyploidie poses many challenges in finding true variants, due to the high number of homeologs between the subgenomes
 - Finger millet is a tetrapolyploid crop species, with subgenome A and subgenome B
