@@ -55,14 +55,14 @@ Céline Bitter and Masaomi Hatekayama
 
 #### Results (after EAGLE-RC)
 <p float="left">
- <img align="right" width="290" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685159-0d17c100-3adf-11ea-9544-2fce2b94b91e.png">
- <img align="right" width="290" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685112-c1fdae00-3ade-11ea-81ad-90f47a70a56c.png">
+ <img align="right" width="290" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_A" src="://user-images.githubusercontent.com/48200405/72685695-574f7100-3ae4-11ea-9c22-0af5dd2c747b.png">
+ <img align="right" width="290" alt="number_of_mapped_reads_after_EAGLE-RC_on_A" src="https://user-images.githubusercontent.com/48200405/72685700-5f0f1580-3ae4-11ea-9ab8-556cbb7be8f8.png">
  <img align="right" width="290" alt="number_of_reads" src="https://user-images.githubusercontent.com/48200405/72685087-777c3180-3ade-11ea-9bb3-5a2e3e2a5981.png">
 </p>
 
 <p float="left">
- <img align="right" width="290" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685157-0ab56700-3adf-11ea-9823-d1e245aa3103.png">
- <img align="right" width="290" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685115-c5913500-3ade-11ea-89cb-47929b767e6b.png">
+ <img align="right" width="290" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_B" src="https://user-images.githubusercontent.com/48200405/72685703-6cc49b00-3ae4-11ea-91b1-9f495baf3136.png">
+ <img align="right" width="290" alt="number_of_mapped_reads_after_EAGLE-RC_on_B" src="https://user-images.githubusercontent.com/48200405/72685705-7817c680-3ae4-11ea-80c8-5328ac569633.png">
 </p>
 
 ---
