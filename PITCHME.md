@@ -146,7 +146,7 @@ after EAGLE-RC
 @ulend
 
 ---
-@snap[north span-50 text-center]
+@snap[north span-100 text-center]
 ### Acknowledgement
 @snapend
 
