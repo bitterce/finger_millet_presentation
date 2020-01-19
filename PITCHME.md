@@ -71,17 +71,17 @@ Céline Bitter and Masaomi Hatekayama
 @snap[text-06]
 before EAGLE-RC
 @snapend
-<p float="left">
+<nbsp float="left">
  <img width="250" alt="percentage_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685548-333f6000-3ae3-11ea-92f7-0d715924efc3.png">
  <img width="250" alt="percentage_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685557-44886c80-3ae3-11ea-9310-ee4a477e2e50.png">
-</p>
+</nbsp>
 @snap[text-06]
 after EAGLE-RC
 @snapend
-<p float="left">
+<nbsp float="left">
  <img width="250" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_A" src="https://user-images.githubusercontent.com/48200405/72685695-574f7100-3ae4-11ea-9c22-0af5dd2c747b.png">
  <img width="250" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_B" src="https://user-images.githubusercontent.com/48200405/72685703-6cc49b00-3ae4-11ea-91b1-9f495baf3136.png">
-</p>
+</nbsp>
 
 ---
 
