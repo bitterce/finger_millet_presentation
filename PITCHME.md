@@ -11,7 +11,7 @@ Céline Bitter and Masaomi Hatekayama
 ---
 
 #### Objective
-@ul[list-square-bullets list-spaced-bullets]
+@ul[list-square-bullets list-spaced-bullets text-08](false)
 - Allopolyploidie poses many challenges in finding true variants, due to the high number of homeologs between the subgenomes
 - Finger millet is a tetrapolyploid crop species, with subgenome A and subgenome
 - EAGLE-RC is able to map reads to the subgenomes seperately and evaluates the likelihood of the data under a given hypothesis
