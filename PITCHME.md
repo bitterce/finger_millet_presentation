@@ -47,8 +47,8 @@ Céline Bitter and Masaomi Hatekayama
 </p>
 
 <p float="right">
- <img width="290" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685115-c5913500-3ade-11ea-89cb-47929b767e6b.png">
- <img width="290" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685157-0ab56700-3adf-11ea-9823-d1e245aa3103.png">
+ <img align="right" width="290" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685115-c5913500-3ade-11ea-89cb-47929b767e6b.png">
+ <img align="right" width="290" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685157-0ab56700-3adf-11ea-9823-d1e245aa3103.png">
 </p>
 
 
