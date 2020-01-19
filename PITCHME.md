@@ -20,7 +20,7 @@ Céline Bitter and Masaomi Hatekayama
 
 ### Methods - planning the pipeline
 
-<img width="650" alt="methods" src="https://user-images.githubusercontent.com/48200405/72679824-dfb12000-3aaa-11ea-933c-7bbd81ef8da6.jpg">
+<img width="750" alt="methods" src="https://user-images.githubusercontent.com/48200405/72679900-cd83b180-3aab-11ea-8f07-02323a82c236.jpg">
 
 ---
 
@@ -37,10 +37,18 @@ Céline Bitter and Masaomi Hatekayama
 
 ---
 
-### Results
-- In total 4 barplots --> 2 before EAGLE-RC (for A and B) 2 after EAGLE-RC (for A and B)
+### Results (before EAGLE-RC)
+<p float="left>
+ <img width="200" alt="number_of_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72680170-e346a600-3aae-11ea-9af9-de11a0f7b349.png">
+ <img width="200" alt="number_of_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72680174-e6419680-3aae-11ea-9e1f-bfb64b4fb616.png">
+</p>
 
+<p float="left>
+ <img width="200" alt="number_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72680177-ed68a480-3aae-11ea-9b46-59d37a521c97.png">
+ <img width="200" alt="number_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72680178-efcafe80-3aae-11ea-84f7-ddc613af865d.png">
+</p>
 ---
+
 
 ### Challenges vs what I have learned
 - Bottelneck in pipeline (BWA, EAGLE-RC, GATK) :x:
@@ -55,4 +63,7 @@ Céline Bitter and Masaomi Hatekayama
 - Finish the pipeline (from EAGLE-RC to BEAGLE)
 - Start pipeline for remaining 3 groups 
 - At the beginning of pipeline, state what could go wrong and name workarounds 
+
+---
+### Acknowledgement
 
