@@ -55,7 +55,7 @@ Céline Bitter and Masaomi Hatekayama
 
 #### Results (after EAGLE-RC)
 <p float="left">
- <img align="right" width="290" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_A" src="://user-images.githubusercontent.com/48200405/72685695-574f7100-3ae4-11ea-9c22-0af5dd2c747b.png">
+ <img align="right" width="290" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_A" src="https://user-images.githubusercontent.com/48200405/72685695-574f7100-3ae4-11ea-9c22-0af5dd2c747b.png">
  <img align="right" width="290" alt="number_of_mapped_reads_after_EAGLE-RC_on_A" src="https://user-images.githubusercontent.com/48200405/72685700-5f0f1580-3ae4-11ea-9ab8-556cbb7be8f8.png">
  <img align="right" width="290" alt="number_of_reads" src="https://user-images.githubusercontent.com/48200405/72685087-777c3180-3ade-11ea-9bb3-5a2e3e2a5981.png">
 </p>
@@ -67,13 +67,26 @@ Céline Bitter and Masaomi Hatekayama
 
 ---
 
+#### Discussion
+<p float="left">
+ <img width="290" alt="percentage_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685548-333f6000-3ae3-11ea-92f7-0d715924efc3.png">
+ <img" width="290" alt="percentage_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685557-44886c80-3ae3-11ea-9310-ee4a477e2e50.png">
+</p>
+
+<p float="left">
+ <img width="290" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_A" src="https://user-images.githubusercontent.com/48200405/72685695-574f7100-3ae4-11ea-9c22-0af5dd2c747b.png">
+ <img width="290" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_B" src="https://user-images.githubusercontent.com/48200405/72685703-6cc49b00-3ae4-11ea-91b1-9f495baf3136.png">
+<\p>
+
+---
+
 #### Challenges vs what I have learned
 @ul[list-square-bullets list-spaced-bullets text-08](false)
-- Bottelneck in pipeline (BWA, EAGLE-RC, GATK) :x:
-- Reducekd disc space on server :x:
-- Planning and organisation :heavy_check_mark:
-- Github :heavy_check_mark: 
-- Application of a functional genomics workflow :heavy_check_mark:
+- Bottelneck in pipeline (BWA, EAGLE-RC, GATK)
+- Reducekd disc space on server
+- Planning and organisation
+- Github / GitPitch 
+- Application of a functional genomics workflow
 @ulend
 
 ---
