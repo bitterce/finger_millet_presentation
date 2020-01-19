@@ -84,8 +84,11 @@ Céline Bitter
 ---
 @title[Results (Number of SNPs, GATKv4)]
 
+@snap[north span-50 text-center]
 #### Discussion
+@snapend
 
+after EAGLE-RC
 <p float="left">
  <img width="280" alt="percentage_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685548-333f6000-3ae3-11ea-92f7-0d715924efc3.png">
  <img width="280" alt="percentage_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685557-44886c80-3ae3-11ea-9310-ee4a477e2e50.png">
