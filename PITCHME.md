@@ -72,16 +72,15 @@ Céline Bitter and Masaomi Hatekayama
 before EAGLE-RC
 @snapend
 <p float="left">
- <img width="280" alt="percentage_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685548-333f6000-3ae3-11ea-92f7-0d715924efc3.png">
- <img width="280" alt="percentage_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685557-44886c80-3ae3-11ea-9310-ee4a477e2e50.png">
+ <img width="250" alt="percentage_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685548-333f6000-3ae3-11ea-92f7-0d715924efc3.png">
+ <img width="250" alt="percentage_of_mapped_reads_on_B" src="https://user-images.githubusercontent.com/48200405/72685557-44886c80-3ae3-11ea-9310-ee4a477e2e50.png">
 </p>
-
 @snap[text-06]
 after EAGLE-RC
 @snapend
 <p float="left">
- <img width="280" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_A" src="https://user-images.githubusercontent.com/48200405/72685695-574f7100-3ae4-11ea-9c22-0af5dd2c747b.png">
- <img width="280" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_B" src="https://user-images.githubusercontent.com/48200405/72685703-6cc49b00-3ae4-11ea-91b1-9f495baf3136.png">
+ <img width="250" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_A" src="https://user-images.githubusercontent.com/48200405/72685695-574f7100-3ae4-11ea-9c22-0af5dd2c747b.png">
+ <img width="250" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_B" src="https://user-images.githubusercontent.com/48200405/72685703-6cc49b00-3ae4-11ea-91b1-9f495baf3136.png">
 </p>
 
 ---
@@ -89,7 +88,7 @@ after EAGLE-RC
 #### Challenges vs what I have learned
 @ul[list-square-bullets list-spaced-bullets text-08](false)
 - Bottelneck in pipeline (BWA, EAGLE-RC, GATK)
-- Reducekd disc space on server
+- Reduced disc space on server
 - Planning and organisation
 - Github / GitPitch 
 - Application of a functional genomics workflow
