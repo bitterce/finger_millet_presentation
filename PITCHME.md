@@ -52,28 +52,22 @@ Céline Bitter and Masaomi Hatekayama
 
 
 #### Challenges vs what I have learned
-@snap[text-07]
+@ul[list-square-bullets list-spaced-bullets text-08](false)
 - Bottelneck in pipeline (BWA, EAGLE-RC, GATK) :x:
-
 - Reducekd disc space on server :x:
-
 - Planning and organisation :heavy_check_mark:
-
 - Github :heavy_check_mark: 
-
 - Application of a functional genomics workflow :heavy_check_mark:
-@snapend
+@ulend
 
 ---
 
 #### Outlook
-@snap[text-07]
+@ul[list-square-bullets list-spaced-bullets text-08](false)
 - Finish the pipeline (from EAGLE-RC to BEAGLE)
-
 - Start pipeline for remaining 3 groups 
-
 - At the beginning of pipeline, state what could go wrong and name workarounds 
-@snapend
+@ulend
 
 ---
 #### Acknowledgement
