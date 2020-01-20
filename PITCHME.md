@@ -19,15 +19,18 @@ Céline Bitter
 @ul[list-square-bullets list-spaced-bullets text-08](false)
 - Challenges in finding true variants in allopolyploids
 	- Often huge genome size
-	- high number of homeologs between subgenomes
-- Allopolyploidie poses many challenges in finding true variants, due to the high number of homeologs between the subgenomes
-- Finger millet is a tetrapolyploid crop species, with subgenome A and subgenome B
-- EAGLE-RC is able to map reads to the subgenomes seperately and evaluates the likelihood of the data under a given hypothesis
+	- High number of homeologs between subgenomes
+- Finger millet is a tetrapolyploid crop species
+	- Subgenome A and subgenome B
+	- Finding SNP is subgenomes
+- EAGLE-RC used to classify reads
+	- Maps reads to the subgenomes seperately
+	- Evaluates the likelihood of the data under a given hypothesis
 @ulend
 
 ---
 
-@snap[north text-center]
+@snap[north span-100 text-center]
 ### Methods - planning the pipeline
 @snapend
 
@@ -54,9 +57,7 @@ Céline Bitter
 
 ---
 
-@snap[north span-100 text-center]
-### Results (before EAGLE-RC)
-@snapend
+#### Results (before EAGLE-RC)
 
 <p float="left">
  <img align="right" width="290" alt="percentage_of_mapped_reads_on_A" src="https://user-images.githubusercontent.com/48200405/72685548-333f6000-3ae3-11ea-92f7-0d715924efc3.png">
@@ -91,7 +92,7 @@ Céline Bitter
 @title[Results (Number of SNPs, GATKv4)]
 
 @snap[north span-100 text-center]
-### Results (Number of SNPs)
+#### Results (Number of SNPs)
 @snapend
 
 @snap[west span-50]
@@ -120,6 +121,8 @@ after EAGLE-RC
  <img width="280" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_B" src="https://user-images.githubusercontent.com/48200405/72685703-6cc49b00-3ae4-11ea-91b1-9f495baf3136.png">
 </p>
 
+---
+
 #### Discussion
 @snap[text-04]
 before EAGLE-RC
@@ -139,7 +142,7 @@ after EAGLE-RC
 ---
 
 @snap[north span-100 text-center]
-### Challenges vs what I have learned
+#### Challenges vs what I have learned
 @snapend
 
 @ul[list-square-bullets list-spaced-bullets text-08](false)
