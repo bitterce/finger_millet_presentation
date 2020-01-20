@@ -22,7 +22,7 @@ Céline Bitter
 	- High number of homeologs between subgenomes
 - Finger millet is a tetrapolyploid crop species
 	- Subgenome A and subgenome B
-	- Finding SNP is subgenomes
+	- Finding SNPs subgenomes
 - EAGLE-RC used to classify reads
 	- Maps reads to the subgenomes seperately
 	- Evaluates the likelihood of the data under a given hypothesis
@@ -101,7 +101,7 @@ Céline Bitter
 
 ---
 
-### Discussion
+#### Discussion
 @snap[text-04]
 before EAGLE-RC
 @snapend
@@ -119,7 +119,7 @@ after EAGLE-RC
 
 ---
 
-@snap[north span-60 text-center]
+@snap[north span-80 text-center]
 ### Challenges vs what I have learned
 @snapend
 
