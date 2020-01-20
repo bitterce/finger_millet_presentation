@@ -119,7 +119,7 @@ after EAGLE-RC
 
 ---
 
-@snap[north span-150 text-center]
+@snap[north span-60 text-center]
 ### Challenges vs what I have learned
 @snapend
 
