@@ -74,7 +74,7 @@ Céline Bitter
 
 #### Results (after EAGLE-RC)
 
-<float="left">
+<p float="left">
  <img align="right" width="290" alt="percentage_of_mapped_reads_after_EAGLE-RC_on_A" src="https://user-images.githubusercontent.com/48200405/72685695-574f7100-3ae4-11ea-9c22-0af5dd2c747b.png">
  <img align="right" width="290" alt="number_of_mapped_reads_after_EAGLE-RC_on_A" src="https://user-images.githubusercontent.com/48200405/72685700-5f0f1580-3ae4-11ea-9ab8-556cbb7be8f8.png">
  <img align="right" width="290" alt="number_of_reads" src="https://user-images.githubusercontent.com/48200405/72685087-777c3180-3ade-11ea-9bb3-5a2e3e2a5981.png">
